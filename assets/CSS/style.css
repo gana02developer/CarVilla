@@ -517,6 +517,9 @@ body
 
 /* responsive in 768px */
 @media screen and (max-width:768px){
+    .navbar2{
+        width:720px !important;
+    }
     .menu
     {
         display:none;
@@ -760,6 +763,10 @@ body
 
 /* responsive in 425px */
 @media screen and (max-width:425px){
+
+    .navbar2{
+        width:380px !important;
+    }
     
     .selection
    {
@@ -951,6 +958,9 @@ body
 @media screen and (max-width:375px){
 
     
+    .navbar2{
+        width:330px !important;
+    }
     .content h1
     {
         font-size:30px;
@@ -1168,6 +1178,10 @@ body
 /* responsive in 320px */
 @media screen and (max-width:320px) 
 {
+
+    .navbar2{
+        width:280px !important;
+    }
     .content
     {
         position:absolute;
